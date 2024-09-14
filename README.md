@@ -52,13 +52,6 @@ I believe in applying my knowledge through practical projects, which are crucial
 
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=a-njli&show_icons=true&theme=dark&locale=en" alt="a-njli" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-njli&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anjali Tiwari" /></td>
-  </tr>
-</table>
-
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-njli&theme=dark" alt="Anjali Tiwari" /></p>
 </div>
