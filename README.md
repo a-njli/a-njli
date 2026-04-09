@@ -12,7 +12,7 @@
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
-<img alt="Go/Golang src="https://img.shields.io/badge/Go/Golang-%2300599C.svg?&style=for-the-badge&logo=golang&logoColor=white" />
+<img alt="Go/Golang" src="https://img.shields.io/badge/Go/Golang-%2300599C.svg?&style=for-the-badge&logo=golang&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
