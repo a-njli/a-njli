@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/anjali-tiwari-694444230/" target="_blank">Anjali Tiwari</a></h1>
 <img width="40%" align="right" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-<h3 align="center">Full Stack Developer | Data Structures & Algorithms Enthusiast</h3>
+<h3 align="center">Backend Developer | Data Structures & Algorithms Enthusiast</h3>
 
 <h3><p align="center"><img src="https://komarev.com/ghpvc/?username=a-njli&label=Profile%20views&color=6805D3&style=flat" alt="AnjaliTiwari" /></p></h3>
 
@@ -12,6 +12,7 @@
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
+<img alt="Go/Golang src="https://img.shields.io/badge/Go/Golang-%2300599C.svg?&style=for-the-badge&logo=golang&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
